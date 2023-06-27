@@ -26,3 +26,4 @@ coverage.json
 typechain
 typechain-types
 docs/console.md
+/
