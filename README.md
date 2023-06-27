@@ -19,3 +19,10 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     runs-on: ubuntu-latest
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+docs/console.md
