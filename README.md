@@ -25,9 +25,7 @@ coverage
 coverage.json
 typechain
 typechain-types
-docs/console.md
-/
-.env
+
 coverage
 coverage.json
 typechain
