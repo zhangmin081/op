@@ -21,10 +21,6 @@ jobs:
     runs-on: ubuntu-latest
 node_modules
 .env
-coverage
-coverage.json
-typechain
-typechain-types
 
 coverage
 coverage.json
