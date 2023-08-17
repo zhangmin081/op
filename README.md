@@ -5,8 +5,7 @@
 #
 # This workflow creates the agenda issue each week. It runs on a cron every
 # Monday morning, raising an issue for the following Thursday.
-# It can also be run manually, in case GitHub Actions has a failure.
-#
+# It can also be run manually, in case GitHub Actions has a failure
 
 on:
   schedule:
