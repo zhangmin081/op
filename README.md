@@ -12,15 +12,6 @@ on:
     - cron: '0 16 * * 4'
   workflow_dispatch: {}
   
-jobs:
-  agenda:
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    runs-on: ubuntu-latest
-node_modules
-.env
-
 coverage
 coverage.json
 typechain
