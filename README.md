@@ -11,8 +11,6 @@ on:
   schedule:
     - cron: '0 16 * * 4'
   workflow_dispatch: {}
-  
-coverage
 coverage.json
 typechain-types
 We have made progress on "EIP-4844: Shard Blob Transactions" (#27257, #27256, #27155, #27049), beacon light sync (#27292), and path-based state storage (#27176, #26813) but neither is finished as of yet.
