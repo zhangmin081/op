@@ -9,7 +9,7 @@
 
 on:
   schedule:
-    - cron: '0 16 * * 4'
+    - cron: '0 16 * 4'
   workflow_dispatch: {}
 coverage.json
 typechain-types
